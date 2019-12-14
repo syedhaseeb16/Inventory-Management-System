@@ -1,0 +1,2 @@
+# Inventory-Management-System
+This is MIS based System Desigin in PHP , Here are 5 levels in System 1- user can made requests,2- Supervisor can reject or forward it to storekeeper,3- storekeeper will issue required item.  storekeeper role in system have major and he is responsible for making PO for new demand based on low stock or user requirements. Manager 1, Manager 2, Manager 3 are responsible for approve or disapprove PO on base of amount/cost and quality of products.  System will also provide whole inventory control updation. System will also provide reports to 
